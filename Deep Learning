@@ -1,0 +1,79 @@
+*	Age-Gender Classification Using Custom CNN.ipynb
+*	Age-Gender Classification Using EfficientNetB7.ipynb
+*	Age-Gender Classification Using VGG19.ipynb
+*	Autoencoders for compression of MRI Brain Images.ipynb
+*	Autoencoders for Image Compression.ipynb
+*	Background_subtraction.py
+*	Binary_Perceptron.ipynb
+*	Bird Recognition Models using VGG16 Transfer Learning.ipynb
+*	Blur.py
+*	BlurringPart2.py
+*	Brightness.py
+*	Building an Image using OpenCV.ipynb
+*	Caffe Deep Learning for Gesture Detection.ipynb
+*	Caffe Deep Learning Model for Posture Action Detection.ipynb
+*	Channel_shift_&_Flip.py
+*	Convolutional Neural Network using Cifar10 dataset.ipynb
+*	Convolutional Neural Network using Fashion MNIST dataset.ipynb
+*	Convolutional Neural Network using MNIST dataset.ipynb
+*	cropping.py
+*	Customer Churn Prediction 2020.ipynb
+*	DCGAN.ipynb
+*	Deep Dream Models.ipynb
+*	Detecting COVID-19 & Pneumonia in X-ray images using Transfer Learning.ipynb
+*	Dlib Face Detections.ipynb
+*	edge.py
+*	Edge_detection.py
+*	Edge_detection_Intro.py
+*	Emotion Detection in Image & Video Stream.ipynb
+*	Emotion Detection Using CNN.ipynb
+*	Emotion Detection Using MobileNet.ipynb
+*	Face Mask Classification Using VGG19 Imagenet.ipynb
+*	Face Mask Detection Using CNN.ipynb
+*	Face Mask Detection Using EfficientNetB7 Imagenet.ipynb
+*	Face Mask Detection Using InceptionV3 Imagenet.ipynb
+*	Face Mask Detection With MobileNetV2 Imagenet.ipynb
+*	Horizontal_shift.py
+*	HVFlip.py
+*	Image Distortion using OpenCV.ipynb
+*	Image Generation using DCGAN on Fingerprint Data.ipynb
+*	Image Generation using GAN.ipynb
+*	Image Processing Tasks 1 & 2.ipynb
+*	Image Processing Using OpenCV Part 1.ipynb
+*	Image Segmentation with Mask R_CNN.ipynb
+*	Image_processing.py
+*	ITFSOpenCV.py
+*	LBPH classifier.ipynb
+*	line.py
+*	Line_detection.py
+*	LSTM_RNN_Tutorial.ipynb
+*	Mask Detection & Classification.ipynb
+*	Mask Detection With CNN.ipynb
+*	Mask Detection with Custom Yolov5 Training Dataset in Colab.ipynb
+*	Mask Detection with Custom Yolov5 Training Dataset.ipynb
+*	Mask Detection With YOLOv5 Pretrained Weights.ipynb
+*	Mask R-CNN Image Segmentation.ipynb
+*	Monthly Sunspots Prediction using SimpleRNN.ipynb
+*	Multiclass classification using ANN.ipynb
+*	Multiple Regression Using ANN.ipynb
+*	Neural Style Transfer.ipynb
+*	noise.py
+*	Non_linear_Activation_Functions_&_their_Gradients.ipynb
+*	object_tracking_KCF_CSRT.py
+*	OpenCV & Haarcascade Detections.ipynb
+*	perspective.py
+*	Reading, Displaying, Writing & Resizing an Image using OpenCV.ipynb
+*	sample.py
+*	sharpen.py
+*	Simple Binary Classification Using ANN.ipynb
+*	Stock Market Prediction using LSTM_RNN.ipynb
+*	Threshold.py
+*	Traffic Sign Detection & Classification Using MobileNetV2.ipynb
+*	Traffic Sign Recognition Using MobileNetV2.ipynb
+*	Vertical_shift.py
+*	VGG19 Trained Age-Gender Detection Model.ipynb
+*	Yearly Water Usage Prediction using LSTM_RNN.ipynb
+*	Yolo.ipynb
+*	Yolov5 Training With Custom Dataset Water Birds.ipynb
+*	Zoom.py
+*	Zooming at Different Pivot Points.ipynb
