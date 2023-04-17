@@ -1,3 +1,4 @@
 Global Superstore MSSQLQuery.sql 13/04/2023
 Join Statements in MS SQL.sql on 15/04/2023
 Creating Tables in MS SQL.sql on 16/04/2023
+Database Normalization.sql on 17/04/2023
